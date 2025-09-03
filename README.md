@@ -1,5 +1,5 @@
 # RESOLUCÃO 1 ESTATISTICA BASICA
-Código feito para resolução de exercícios de estatística básica N1B1
+Código em python feito para resolução de exercícios de estatística básica N1B1
 
 # RESULTADOS OBTIDOS 
 
